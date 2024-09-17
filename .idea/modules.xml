@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeatBox/BeatBox.iml" filepath="$PROJECT_DIR$/BeatBox/BeatBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeadFirstProjects.iml" filepath="$PROJECT_DIR$/HeadFirstProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuizCardGame/QuizCardGame.iml" filepath="$PROJECT_DIR$/QuizCardGame/QuizCardGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleChatClient/SimpleChatClient.iml" filepath="$PROJECT_DIR$/SimpleChatClient/SimpleChatClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestServers/TestServers.iml" filepath="$PROJECT_DIR$/TestServers/TestServers.iml" />
+    </modules>
+  </component>
+</project>
